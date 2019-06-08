@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-442cd12a"],{"8ed1":function(n,e,t){},bb0d:function(n,e,t){"use strict";t.r(e);var c=function(){var n=this,e=n.$createElement;n._self._c;return n._m(0)},s=[function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",{staticClass:"success"},[t("p",[n._v("期待您与我们一同见证")])])}],u={},a=u,r=(t("d79b"),t("2877")),i=Object(r["a"])(a,c,s,!1,null,null,null);e["default"]=i.exports},d79b:function(n,e,t){"use strict";var c=t("8ed1"),s=t.n(c);s.a}}]);
+//# sourceMappingURL=chunk-442cd12a.1f78d192.js.map
